@@ -1,0 +1,29 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+TestResults/
+*.user
+*.suo
+*.cache
+*.ide/
+*.userprefs
+*.nupkg
+.nuget/
+packages/
+.vscode/
+.vs/
+*/.vs/
+Generated_Code/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Rider
+.idea/
+
+# dotenv
+.env
